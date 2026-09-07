@@ -49,7 +49,7 @@
   },
   "devDependencies": {
     "@astrojs/check": "^0.9.9",
-    "@supabase/server": "1.4.1",
+    "@supabase/server": "1.5.3",
     "@types/node": "^20.11.0",
     "prettier": "^3.9.0",
     "typescript": "^5.7.0",
